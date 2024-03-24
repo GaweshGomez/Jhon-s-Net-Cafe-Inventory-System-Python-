@@ -1,0 +1,2 @@
+ 'Item code'= 0001, 'Item name'=Iphone 14 pro max,'Item brand'=Apple, 'Item price'=590000.0,'Quantity'=20, 'category'= Mobile Phone 'Purchased Date'= 12.11.2022
+ 'Item code'= 0002, 'Item name'=Viva book,'Item brand'=ASUS, 'Item price'=350000.0,'Quantity'=30, 'category'= LAPTOP 'Purchased Date'= 03.03.2023
